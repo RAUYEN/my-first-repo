@@ -1,4 +1,1 @@
-hello everyone
-
-this is my second file in github
-and my first .txt file
+m1-sc6-summer-17
